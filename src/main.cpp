@@ -3,7 +3,7 @@
 #include <optional>
 #include <sstream>
 #include <vector>
-
+#include "generation.hpp"
 int main(int argc, char* argv[])
 {
     if (argc != 2) {
